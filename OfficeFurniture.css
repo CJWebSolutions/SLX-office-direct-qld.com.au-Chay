@@ -159,19 +159,18 @@ footer {
 }
 @media only screen and (max-width: 767px) and (min-width: 0px)  {
     .banner_cover {height: 260px;}
+    .formbuilder-form input#submit-form {text-align:center;width:100%!important;}}
     #header1 img{margin-bottom:-10px;}
     #service1:hover,#service2:hover,#service3:hover,#service4:hover{transform: scale(1.05);}
     #header2 {padding-bottom: 50px;}
     .content_block {padding-bottom: 0px;}
-    .formbuilder-form label {text-align: left;}
     #banner1 h1{
         font-size:40px;
         line-height:50px;}
     #contact1{
         margin-left: 5%;
         margin-right: 5%;
-        width: 90%;
-        text-align:left;}
+        width: 90%;}
 }
 @media (max-width: 480px) {
     #banner p {font-size: 18px;}
